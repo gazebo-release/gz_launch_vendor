@@ -2,6 +2,11 @@
 Changelog for package gz_launch_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Jetty support: 9.0.0-pre1 (`#6 <https://github.com/gazebo-release/gz_launch_vendor/issues/6>`_)
+* Contributors: Steve Peters
+
 0.2.1 (2025-02-19)
 ------------------
 * Bump version to 8.0.1 (`#5 <https://github.com/gazebo-release/gz_launch_vendor/issues/5>`_)
