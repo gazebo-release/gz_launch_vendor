@@ -2,8 +2,8 @@
 Changelog for package gz_launch_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.3.1 (2025-10-01)
+------------------
 * Merge pull request `#8 <https://github.com/gazebo-release/gz_launch_vendor/issues/8>`_ from gazebo-release/releasepy/rolling/9.0.0
   Bump version to 9.0.0
 * Bump version to 9.0.0
