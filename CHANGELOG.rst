@@ -2,6 +2,12 @@
 Changelog for package gz_launch_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge pull request `#9 <https://github.com/gazebo-release/gz_launch_vendor/issues/9>`_ from gazebo-release/releasepy/kilted/8.0.2
+  Bump version to 8.0.2
+* Contributors: Jose Luis Rivero
+
 0.2.1 (2025-02-19)
 ------------------
 * Bump version to 8.0.1 (`#5 <https://github.com/gazebo-release/gz_launch_vendor/issues/5>`_)
