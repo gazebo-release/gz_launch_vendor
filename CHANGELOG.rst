@@ -2,8 +2,8 @@
 Changelog for package gz_launch_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.6 (2026-06-17)
+------------------
 * Bump version to 7.1.2 (`#13 <https://github.com/gazebo-release/gz_launch_vendor/issues/13>`_)
 * Contributors: Arjo Chakravarty
 
