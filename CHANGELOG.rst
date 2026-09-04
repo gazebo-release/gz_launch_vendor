@@ -2,8 +2,8 @@
 Changelog for package gz_launch_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.5 (2026-09-04)
+------------------
 * Revert "Enable Python bindings (`#14 <https://github.com/gazebo-release/gz_launch_vendor/issues/14>`_)" (`#16 <https://github.com/gazebo-release/gz_launch_vendor/issues/16>`_)
   This reverts commit 8d618b42e5696a8b5a4770034abc997449992130.
 * Contributors: Addisu Z. Taddese
